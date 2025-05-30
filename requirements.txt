@@ -1,0 +1,6 @@
+streamlit>=1.10.0
+pandas>=1.5.0
+openpyxl>=3.0.10      # Excel I/O support for pandas
+docxtpl>=0.14.0       # Templating engine for Word docs
+python-docx>=0.8.11   # Underlying docx support for docxtpl
+Pillow>=9.4.0         # Image processing for aspect‐ratio scaling
